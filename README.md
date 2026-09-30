@@ -1,0 +1,2 @@
+# bibliadetalhada
+Estudo da biblia 
